@@ -1,2 +1,13 @@
 # SPACE-SHOOTER-2067
-small shooter game in assembly.
+Small shooter game in assembly with CRUD capabilities at runtime.
+
+You can create upto 3 accounts.
+
+
+Controls:
+- A - move left
+- D - move right
+- W - shoot
+
+
+_Submission for CS243 Final Project_
