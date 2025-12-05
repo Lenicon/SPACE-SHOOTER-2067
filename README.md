@@ -9,7 +9,6 @@ Controls:
 - D - move right
 - W - shoot
 
-
-Ran on DOSBox.
+Runs on DOSBox.
 
 _Submission for CS243 Final Project_
